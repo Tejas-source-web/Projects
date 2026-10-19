@@ -26,6 +26,8 @@ Open the `index.html` file in any modern web browser. No additional installation
 ## Project Links
 - GitHub Repository: (https://github.com/Tejas-source-web/Projects)
 - Live Website: https://tejas-source-web.github.io/Projects/
-
+- Project Page URL: https://github.com/Tejas-source-web/Projects
 ## Author
 Tejas
+
+
